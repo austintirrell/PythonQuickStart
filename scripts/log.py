@@ -3,6 +3,7 @@ import logging
 
 
 # Collects all `logger.error()` calls
+# Import and use `ERROR_COLLECTOR` if needed
 ERROR_COLLECTOR = []
 
 
